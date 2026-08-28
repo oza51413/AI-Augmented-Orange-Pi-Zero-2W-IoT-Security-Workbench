@@ -2,6 +2,8 @@
 
 An AI-assisted IoT security workbench built around an **Orange Pi Zero 2W**. The AI connects to the Pi through **SSH** and accesses a dedicated project workspace for security research.
 
+![Setup](setup.png)
+
 ## Recon
 
 Hardware reconnaissance and device documentation, including images and identification of interfaces and components.
